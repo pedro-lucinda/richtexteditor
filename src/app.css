@@ -1,0 +1,26 @@
+.RichText {
+	font-family: 'Manrope', sans-serif;
+	border-radius: 8px;
+	border: 3px solid #007AEB;
+}
+
+.wrapper-class {
+	padding: 1rem;
+	border-radius: 8px;
+}
+
+.editor-class {
+	background-color: #fff;
+	border: 1px solid #007AEB;
+	padding: 1rem;
+	border-radius: 8px;
+}
+
+.toolbar-class {
+	border-radius: 8px;
+}
+
+.preview {
+	padding: 1rem;
+	margin-top: 1rem;
+}
